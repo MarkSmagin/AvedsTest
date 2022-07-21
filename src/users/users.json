@@ -1,0 +1,17 @@
+[
+  {
+    "login" : "user123",
+    "password" : "qwerty123456",
+    "name" : "Марк"
+  },
+  {
+    "login" : "user456",
+    "password" : "qwerty123456",
+    "name" : "Данил"
+  },
+  {
+    "login" : "user789",
+    "password" : "qwerty123456",
+    "name" : "Глеб"
+  }
+]

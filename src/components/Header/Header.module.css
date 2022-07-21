@@ -1,0 +1,43 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #000000;
+  line-height: 24px;
+  height: 80px;
+  padding: 0 70px;
+  margin-bottom: 80px;
+}
+
+.myLink{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  margin-right: 58px;
+}
+
+@media (max-width: 520px) {
+  .header{
+    padding: 0 10px;
+    margin-bottom: 55.5px;
+  }
+  .myLink{
+    margin-right: 10px;
+  }
+  .header button{
+    padding: 4px 18.5px;
+  }
+}
+
+@media (max-width: 700px) {
+  .header{
+    padding: 0 15px;
+  }
+  .myLink{
+    margin-right: 15px;
+  }
+}

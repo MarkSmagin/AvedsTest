@@ -1,0 +1,14 @@
+.contacts{
+  padding: 104.5px 0;
+}
+
+.contacts__title{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 80px;
+  letter-spacing: 0.2px;
+  color: #252B42;
+  margin-bottom: 35px
+}

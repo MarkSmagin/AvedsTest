@@ -1,0 +1,17 @@
+.myBtn{
+  padding: 6px 58.5px;
+  color: #FF685B;
+  font-size: 20px;
+  background: transparent;
+  border: 2px solid #FF685B;
+  border-radius: 7px;
+  cursor: pointer;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+}
+
+.myBtn:hover{
+  color: #FFFFFF;
+  background: #FF685B;
+}

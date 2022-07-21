@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Open+Sans:wght@600&display=swap');
+
+.container{
+  max-width: 1046px;
+  margin: 0 auto;
+}
+
+@media (min-width: 815px) and (max-width: 1050px) {
+  .container{
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 615px) and (max-width: 814px) {
+  .container{
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 615px) {
+  .container{
+    max-width: 390px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 400px) {
+  .container{
+    max-width: 355px;
+    margin: 0 auto;
+  }
+}
+
+
+
